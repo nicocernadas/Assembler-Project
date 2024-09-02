@@ -1,0 +1,5 @@
+Pasos para instalar la VM
+- Descargar el archivo "Tasm_1.4...EXE" en el escritorio
+- Efectuar doble click en él e instalarlo
+- En la carpeta "c:\Tasm 1.4\Tasm" descargar el archivo "DEBUG.EXE"
+- Hacer doble click en el ícono de "manzanita" que está en el escritorio para acceder a la VM con TASM
