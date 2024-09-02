@@ -1,8 +1,9 @@
-Pasos para instalar la VM
-- Descargar el archivo "Tasm_1.4...EXE" en el escritorio
-- Efectuar doble click en �l e instalarlo
-- En la carpeta "c:\Tasm 1.4\Tasm" descargar el archivo "DEBUG.EXE"
-- Hacer doble click en el �cono de "manzanita" que est� en el escritorio para acceder a la VM con TASM
+**Steps to Install the VM**
 
-_**Usuarios de Apple**_
-- Esta guia podria no funcionar, para un correcto uso y descarga el DOSBOX, buscar en youtube
+1. Download the file "Tasm_1.4...EXE" to your desktop.
+2. Double-click on it and follow the installation process.
+3. In the folder "c:\Tasm 1.4\Tasm," download the file "DEBUG.EXE."
+4. Double-click on the "apple" icon on the desktop to access the VM with TASM.
+
+**For Apple Users:**
+It is recommended to search for a guide on YouTube for the proper installation of DOSBOX.
