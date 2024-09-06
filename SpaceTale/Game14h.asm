@@ -2,33 +2,9 @@
 .model small
 .stack 100h
 .data
-;Cosas que arreglar:
-		;LISTO--; si disparas cuando hay una bala en movimiento y te moves, mueve la bala ya existente
-		;LISTO--; que se fije los colores y cada enemigo sume diferente
-		;LISTO--; hacer efectos de sonido(cuando todas w hace el sonido entonces si lo tocas mucho esta mal)
-  		;LISTO--; si tocas disparar muchas veces se bugea y no te deja mas
-  		;LISTO--; que las opciones de YOU WIN funcionen
-  		;LISTO--; que si te tocan los enemigos pierdas o si llegan al final (line 1639)
-  		;LISTO--; pantallas piolas
-		;LISTO--; que sea mas rapido cada nivel(menos retardos)
-  		;LISTO--; que el score y highscore terminen de cuadrar, porque es medio raro, ej: no se suman al simultaneo, el highscore solo se actualiza cuando termina el nivel, el score cuando comienza un nuevo nivel esta en 0000 pero matas a alguien y salta a 0370 ponele
-		;LISTO--; el enemigo secreto (aparece y se va, NO determinantre para que gane el jugador)
-  		;LISTO--; se va el pibe y creo que no se puede solucinar porque se mueve cada 2 y el pibe mide 3 ▄█▄ (si hay manera pero me da paja)
-  	 ;ANULADO--; poner musica de fondo(horrible)
-		;LISTO--; arreglar los 99999
-		;LISTO--; arreglar el flickering
-		;LISTO--; hacer la int con random para el disparo del boss fijate de hacer las interrupciones que las llames con cosas diferentes no las dos con 80 y fijate de sacar el sonido en las pantallas de boss eso y hace que la musica sea un poco mas rapida, tipo acelerala si podes
-		;LISTO--;arregla las pantallas, que no se pueda esc en el boss(que no te deje salir y volver a empezar como en el video que mande), tambien tenes que crear una pantalla tipo gameOverboss que sea igual solo que no este el texto blanco que te ponga esc y space tambien arregla animacion de muerte que ahora termina con J por algun motivo, y poner las pantallas de winBoss que seria la corona rota y sin el space y esc o tipo 	--> 5r€e§ τª# bµ3+º ? [space]    solo eso y la corona arriba posicionar_bala_de_BOSS asi
-		;LISTO--; arreglar lo de las pantallas
-		;LISTO--; hacerle una interrupcion
- 		;LISTO--; que dispare el boss
-		;ANULADO--; que se ria re cursed(el que lo tenia que hacer no lo hizo)
-		;LISTO--; que no se siga moviento el pj cuando soltas la tecla
-
 ;-------------------
 ; NOTAS:
 ; tp hecho por : Correa Catalina, Andres Maximiliano, Cossettini Reyes Dana y Cernadas Nicolas
-
 ;-------------------fabrica de enemigos
 ; ▀ █ ▄
 
