@@ -3,7 +3,14 @@
 1. Download the file "Tasm_1.4...EXE" to your desktop.
 2. Double-click on it and follow the installation process.
 3. In the folder "c:\Tasm 1.4\Tasm," download the file "DEBUG.EXE."
-4. Double-click on the "apple" icon on the desktop to access the VM with TASM.
+4. Once one have done that, download all the 'Space Tale' files, and paste them in the 'Tasm' folder too.
+5. Search for 'tasm' in your Windows Search bar, an app named 'Tasm 1.4 Windows 7 - Windows 8 64 bit By Techapple.net' should appear, run it.
+6. If you are not in 'C:\TASM>' by default, you might want to get there
+7. Once you are there, type 'game', and press any key until the process is finished, just like in the video in the Readme.
+  >game is a .bat file, used to run many commands you would not like to type every time you want to try the game
+8. Enjoy!
+
+
 
 **For Apple Users:**
 It is recommended to search for a guide on YouTube for the proper installation of DOSBOX.
