@@ -10,6 +10,9 @@ Choice: _Space Invaders inspired game._
 
 - 3) To run the game, you should first check if the route to the tasm folder is correct "cd route\to\tasm" (It should be something like "C:\TASM>"). Once you have that done, type "c game14h" and enjoy.
  
+> [!NOTE]
+> Please note that the file provided _**does not**_ contain the entire game code, so it won't be playable as is. If you'd like to try out the full version, feel free to reach out, and I'll be happy to provide it!
+ 
 _**GAMEPLAY**_
 
 [recorded gameplay](https://github.com/user-attachments/assets/d65c5111-c5f1-4cbe-87ec-fc0c5a3a431c)
