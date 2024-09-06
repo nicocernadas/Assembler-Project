@@ -14,6 +14,6 @@ _**GAMEPLAY**_
 
 [recorded gameplay](https://github.com/user-attachments/assets/d65c5111-c5f1-4cbe-87ec-fc0c5a3a431c)
 
-Game also has sound, due to screen-recorder problems, I couldn't include it in the video.
+Game also has sound, but due to screen-recorder problems, I couldn't include it in the video.
 
 Hope you enjoy!
