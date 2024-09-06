@@ -7,7 +7,7 @@
 5. Search for 'tasm' in your Windows Search bar, an app named 'Tasm 1.4 Windows 7 - Windows 8 64 bit By Techapple.net' should appear, run it.
 6. If you are not in 'C:\TASM>' by default, you might want to get there
 7. Once you are there, type 'game', and press any key until the process is finished, just like in the video in the Readme.
-  >game is a .bat file, used to run many commands you would not like to type every time you want to try the game
+  >game is a .bat file, used to run many commands you would not like to type every time you want to try the game. (such as the random or sound INT, also made by us :D)
 8. Enjoy!
 
 
