@@ -15,7 +15,7 @@ Choice: _Space Invaders inspired game._
  
 _**GAMEPLAY**_
 
-[recorded gameplay](https://github.com/user-attachments/assets/d65c5111-c5f1-4cbe-87ec-fc0c5a3a431c)
+[recorded gameplay](https://github.com/user-attachments/assets/768acc6d-1a12-4c6b-a7ca-d7b346c2824b)
 
 Game also has sound, but due to screen-recorder problems, I couldn't include it in the video.
 
